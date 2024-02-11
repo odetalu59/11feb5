@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://garrettmac.io/superjp.html/sitemap.xml
+Sitemap: http://garrettmac.io/gilajp.html/sitemap.xml
+Sitemap: http://garrettmac.io/gojekpot.html/sitemap.xml
+Sitemap: http://garrettmac.io/winstrike69.html/sitemap.xml
+Sitemap: http://garrettmac.io/jagoan86.html/sitemap.xml
+Sitemap: http://garrettmac.io/slotzeus.html/sitemap.xml
+Sitemap: http://garrettmac.io/kaptenjackpot.html/sitemap.xml
+Sitemap: http://garrettmac.io/boosterjp.html/sitemap.xml
+Sitemap: http://garrettmac.io/kerajaanslot.html/sitemap.xml
+Sitemap: http://garrettmac.io/pakong86.html/sitemap.xml
+Sitemap: http://garrettmac.io/viral88.html/sitemap.xml
+Sitemap: http://garrettmac.io/clan4d.html/sitemap.xml
+Sitemap: http://garrettmac.io/dinamit4d.html/sitemap.xml
+Sitemap: http://garrettmac.io/elang212.html/sitemap.xml
+Sitemap: http://garrettmac.io/gori77.html/sitemap.xml
+Sitemap: http://garrettmac.io/viral4d.html/sitemap.xml
+Sitemap: http://garrettmac.io/playground88.html/sitemap.xml
